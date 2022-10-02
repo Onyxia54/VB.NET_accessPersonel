@@ -1,0 +1,13 @@
+C:\Users\Onyxia\Source\Repos\accessPersonel\accessPersonel\bin\Debug\accessPersonel.exe.config
+C:\Users\Onyxia\Source\Repos\accessPersonel\accessPersonel\bin\Debug\accessPersonel.exe
+C:\Users\Onyxia\Source\Repos\accessPersonel\accessPersonel\bin\Debug\accessPersonel.pdb
+C:\Users\Onyxia\Source\Repos\accessPersonel\accessPersonel\bin\Debug\accessPersonel.xml
+C:\Users\Onyxia\Source\Repos\accessPersonel\accessPersonel\obj\Debug\accessPersonel.vbproj.AssemblyReference.cache
+C:\Users\Onyxia\Source\Repos\accessPersonel\accessPersonel\obj\Debug\accessPersonel.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Onyxia\Source\Repos\accessPersonel\accessPersonel\obj\Debug\accessPersonel.Form1.resources
+C:\Users\Onyxia\Source\Repos\accessPersonel\accessPersonel\obj\Debug\accessPersonel.Resources.resources
+C:\Users\Onyxia\Source\Repos\accessPersonel\accessPersonel\obj\Debug\accessPersonel.vbproj.GenerateResource.cache
+C:\Users\Onyxia\Source\Repos\accessPersonel\accessPersonel\obj\Debug\accessPersonel.vbproj.CoreCompileInputs.cache
+C:\Users\Onyxia\Source\Repos\accessPersonel\accessPersonel\obj\Debug\accessPersonel.exe
+C:\Users\Onyxia\Source\Repos\accessPersonel\accessPersonel\obj\Debug\accessPersonel.xml
+C:\Users\Onyxia\Source\Repos\accessPersonel\accessPersonel\obj\Debug\accessPersonel.pdb
